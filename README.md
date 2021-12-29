@@ -13,4 +13,5 @@
 > 
 > Your band name could be [Your City] [Your Pet Name]
 
-### It's as simple as that. Download this repo now, to get the full experience! 
+## This project is licensed under the Apache License, Version 2.0. 
+### You're open to make changes and contribute to the project, please make a pull request!
